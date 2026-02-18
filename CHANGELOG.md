@@ -1,3 +1,7 @@
+# 1.0.5
+
+* Increased server version
+
 # 1.0.4
 
 * Fixed replaced ores config not working as a regex filter.
